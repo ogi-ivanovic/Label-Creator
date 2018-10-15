@@ -1,6 +1,5 @@
 import os
 import openpyxl
-#'C:/Users/Ogi/Desktop/test.xlsx'
 
 def formatDate(date):
     year = date[0:4]
